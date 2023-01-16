@@ -1,7 +1,42 @@
-### Hi there 👋
+<h1>Hi, I'm Joseph! 
+
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Home Lab Set Up </b>
+  - [Creating a Home Lab with VirtualBox]()
+- <b>PowerShell</b>
+  - [Active Directory Bulk User Creation]()
+  - [FIM (File Integrity Monitor)]()
+- <b>Python</b>
+
+<h2> Certifications</h2>
+
+
+<h2>📺 Popular YouTube Videos</h2>
+
+- [VirtualBox Home Lab Set Up]()
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+
+
+
+<a href='https://www.linkedin.com/in/joseph-myers-401851182/'>
+<img align="left" alt="Joseph Myers | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+
+
+
+
+
+[twitter]: https://twitter.com/
+[youtube]: https://www.youtube.com/
+[instagram]: https://www.instagram.com/
+[linkedin]: https://linkedin.com/
 
 <!--
-**JMyers261/JMyers261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jmyers261/jmyers261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
