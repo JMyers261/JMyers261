@@ -9,7 +9,6 @@
   - [FIM (File Integrity Monitor)]()
 - <b>Python</b>
 
-<h2> Certifications</h2>
 
 
 <h2>📺 Popular YouTube Videos</h2>
